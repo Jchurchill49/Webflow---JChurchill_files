@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bitter-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=HEpP8tJXlWaYHimsnXgfCC2WTd71LD8nu8peV8DSozNTjs58z928dbWReh_qfKBWQWjD9BBd7JJDgQBHLqedNg) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=2PcBT6-VmYhQCus-O11S5y2WTd71LD8nu8peV8DSozNTjs58z928dbWReh_qfKBWQWjD9BBd7JJDgQBHLqedNg) format('woff');
+}
+@font-face {
+  font-family: 'Changa One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Changa One'), local('ChangaOne'), url(https://themes.googleusercontent.com/licensed/font?kit=QmTOgNNWM9ly3K3B2X29HKEfDWeVQExF3Bp3GvlKWKPt4xyfrHUZqVuVAy1YpfLQhK-R7sOMk79mm-nSu9a9BA) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=QmTOgNNWM9ly3K3B2X29HBZghYraqQr4Xtt_-bEeKczt4xyfrHUZqVuVAy1YpfLQhK-R7sOMk79mm-nSu9a9BA) format('woff');
+}
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Sans'), local('DroidSans'), url(https://themes.googleusercontent.com/licensed/font?kit=s-BiyweUPV0v-yRb-cjciKEfDWeVQExF3Bp3GvlKWKPt4xyfrHUZqVuVAy1YpfLQhK-R7sOMk79mm-nSu9a9BA) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=s-BiyweUPV0v-yRb-cjciBZghYraqQr4Xtt_-bEeKczt4xyfrHUZqVuVAy1YpfLQhK-R7sOMk79mm-nSu9a9BA) format('woff');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Serif'), local('DroidSerif'), url(https://themes.googleusercontent.com/licensed/font?kit=0AKsP294HTD-nvJgucYTaDPn2aPXDr1giiB4mSrB_eN-MBd0WkGZ2kK8Ntaaca0TW2RruCLyDiXxdcP-9ZuyCA) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=0AKsP294HTD-nvJgucYTaGU7RZNn86C1s9V2bLXoeYF-MBd0WkGZ2kK8Ntaaca0TW2RruCLyDiXxdcP-9ZuyCA) format('woff');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Exo Regular'), local('Exo-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=vdSloxxkh8b61VpODDdAxmOo6YkCsGO1K5xshUrNRnjrztZ-3d4oYTRqXm-FA0iLHxHCfgJaCPF5KV26DunHIw) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=nGbXae_woyTb_-qKphPuIGOo6YkCsGO1K5xshUrNRnjrztZ-3d4oYTRqXm-FA0iLHxHCfgJaCPF5KV26DunHIw) format('woff');
+}
+@font-face {
+  font-family: 'Great Vibes';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Great Vibes'), local('GreatVibes-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=6q1c0ofG6NKsEhAc2eh-3TPn2aPXDr1giiB4mSrB_eN-MBd0WkGZ2kK8Ntaaca0TW2RruCLyDiXxdcP-9ZuyCA) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=6q1c0ofG6NKsEhAc2eh-3WU7RZNn86C1s9V2bLXoeYF-MBd0WkGZ2kK8Ntaaca0TW2RruCLyDiXxdcP-9ZuyCA) format('woff');
+}
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inconsolata'), url(https://themes.googleusercontent.com/licensed/font?kit=BjAYBlHtW3CJxDcjzrnZCDPn2aPXDr1giiB4mSrB_eN-MBd0WkGZ2kK8Ntaaca0TW2RruCLyDiXxdcP-9ZuyCA) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=BjAYBlHtW3CJxDcjzrnZCGU7RZNn86C1s9V2bLXoeYF-MBd0WkGZ2kK8Ntaaca0TW2RruCLyDiXxdcP-9ZuyCA) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=MDadn8DQ_3oT6kvnUq_2r5wF_LFzrsifIZn7DlVYXJ9zaPasv3NA_OlV_u6rKCWylMos0coPHpfJlBZRV6xesg) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=qIIYRU-oROkIk8vfvxw6QpwF_LFzrsifIZn7DlVYXJ9zaPasv3NA_OlV_u6rKCWylMos0coPHpfJlBZRV6xesg) format('woff');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merriweather'), url(https://themes.googleusercontent.com/licensed/font?kit=RFda8w1V0eDZheqfcyQ4ED_8Uo01ZXW9abmq6SNM0tL4JA0PnLLE2babAQnwE34xKJjgNYjgrJ-tG_uVtGol_w) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=RFda8w1V0eDZheqfcyQ4EIi1qoBMbrr3XsJ4vmww9tP4JA0PnLLE2babAQnwE34xKJjgNYjgrJ-tG_uVtGol_w) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=zhcz-_WihjSQC0oHJ9TCYKEfDWeVQExF3Bp3GvlKWKPt4xyfrHUZqVuVAy1YpfLQhK-R7sOMk79mm-nSu9a9BA) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=zhcz-_WihjSQC0oHJ9TCYBZghYraqQr4Xtt_-bEeKczt4xyfrHUZqVuVAy1YpfLQhK-R7sOMk79mm-nSu9a9BA) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(https://themes.googleusercontent.com/licensed/font?kit=cJZKeOuBrn4kERxqtaUH3btkU7OBuKYGolvqBm5r15w68UxY1tq4jdgtxp-ND8LwmrrcrVC1SW6PC4gVx9RSZA) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=cJZKeOuBrn4kERxqtaUH3cRPOSrdeQpBEsolS5cTxB068UxY1tq4jdgtxp-ND8LwmrrcrVC1SW6PC4gVx9RSZA) format('woff');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=_P8jt3Y65hJ9c4AzRE0V1C2WTd71LD8nu8peV8DSozNTjs58z928dbWReh_qfKBWQWjD9BBd7JJDgQBHLqedNg) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=qpy-UiLNKP-VfOdbcs6r6y2WTd71LD8nu8peV8DSozNTjs58z928dbWReh_qfKBWQWjD9BBd7JJDgQBHLqedNg) format('woff');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans'), local('PTSans-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=CWlc_g68BGYDSGdpJvpkts30ZO89KOqZO7Tne2JSZnycLUapRbDWce_nakI_ifhdIrJhpgFSnAeax4gY4Mu4yw) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=7YGmE4Ls5b94ct65u07hVc30ZO89KOqZO7Tne2JSZnycLUapRbDWce_nakI_ifhdIrJhpgFSnAeax4gY4Mu4yw) format('woff');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Serif'), local('PTSerif-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=I-OtoJZa3TeyH6D9oli3if4MJLzoXbH_zsw3UO-df79FZLiH1-jmYusIHeEZ9LZe8UaCpT2hCTtNvzYN4Gk_Pg) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=sDRi4fY9bOiJUbgq53yZCf4MJLzoXbH_zsw3UO-df79FZLiH1-jmYusIHeEZ9LZe8UaCpT2hCTtNvzYN4Gk_Pg) format('woff');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(https://themes.googleusercontent.com/licensed/font?kit=zvCUQcxqeoKhyOlbifSAaS2WTd71LD8nu8peV8DSozNTjs58z928dbWReh_qfKBWQWjD9BBd7JJDgQBHLqedNg) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=vRvZYZlUaogOuHbBTT1SNS2WTd71LD8nu8peV8DSozNTjs58z928dbWReh_qfKBWQWjD9BBd7JJDgQBHLqedNg) format('woff');
+}
+@font-face {
+  font-family: 'Varela';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Varela'), url(https://themes.googleusercontent.com/licensed/font?kit=kKS1_dskIMPqTNSaCaajmC2WTd71LD8nu8peV8DSozNTjs58z928dbWReh_qfKBWQWjD9BBd7JJDgQBHLqedNg) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=maB5vWJo0EAVzvHPjBkLMy2WTd71LD8nu8peV8DSozNTjs58z928dbWReh_qfKBWQWjD9BBd7JJDgQBHLqedNg) format('woff');
+}
+@font-face {
+  font-family: 'Varela Round';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Varela Round'), local('VarelaRound-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=APH4jr0uSos5wiut5cpjrj_8Uo01ZXW9abmq6SNM0tL4JA0PnLLE2babAQnwE34xKJjgNYjgrJ-tG_uVtGol_w) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=APH4jr0uSos5wiut5cpjroi1qoBMbrr3XsJ4vmww9tP4JA0PnLLE2babAQnwE34xKJjgNYjgrJ-tG_uVtGol_w) format('woff');
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Vollkorn Regular'), local('Vollkorn-Regular'), url(https://themes.googleusercontent.com/licensed/font?kit=idGKtgpe38okB6bfeHMsLP4MJLzoXbH_zsw3UO-df79FZLiH1-jmYusIHeEZ9LZe8UaCpT2hCTtNvzYN4Gk_Pg) format('woff2'), url(https://themes.googleusercontent.com/licensed/font?kit=BCFBp4rt5gxxFrX6F12DKv4MJLzoXbH_zsw3UO-df79FZLiH1-jmYusIHeEZ9LZe8UaCpT2hCTtNvzYN4Gk_Pg) format('woff');
+}
